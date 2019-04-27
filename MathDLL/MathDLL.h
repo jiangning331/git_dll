@@ -19,6 +19,7 @@ private:
 	int m_val;
 };
 
+//in test1
 
 
 extern MATHDLL_API int nMathDLL;
