@@ -19,6 +19,8 @@ private:
 	int m_val;
 };
 
+
+
 extern MATHDLL_API int nMathDLL;
 
 MATHDLL_API int fnMathDLL(void);
