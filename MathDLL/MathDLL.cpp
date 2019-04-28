@@ -72,6 +72,7 @@ bool fibonacci_next()
 // Get the current value in the sequence.
 unsigned long long fibonacci_current()
 {
+	//what's this???
 	return current_;
 }
 
